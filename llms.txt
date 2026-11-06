@@ -1,0 +1,77 @@
+# 오카리나편
+
+> 젤다 시간의 오카리나 노래를 진짜 오카리나로
+
+닌텐도64 젤다의 전설 시간의 오카리나(1998) 노래 12곡을 12홀 알토C 오카리나 운지 그림과 게임 리듬으로 보여 주는 팬 사이트입니다. 게임 버튼 A·C아래·C오른쪽·C왼쪽·C위는 레·파·라·시·높은 레이고 알토C에서는 레5·파5·라5·시5·레6으로 붑니다. 2026년 Nintendo Switch 2 리메이크는 콘솔 마이크로 진짜 오카리나 연주를 인식합니다(게임에서 배운 노래만). 같은 내용이 영어(/en/)와 일본어(/ja/)로도 있습니다.
+
+## 다섯 음 운지 (12홀 알토C, 불 때 위에서 내려다본 손가락, 작은 서브홀 둘은 모두 열기)
+
+- [레 (D5)](https://ocarina.factpane.com/#five): 오른손 새끼만 떼고 나머지는 모두 막습니다.
+- [파 (F5)](https://ocarina.factpane.com/#five): 오른손 중지·약지·새끼를 떼고 나머지는 모두 막습니다.
+- [라 (A5)](https://ocarina.factpane.com/#five): 왼손 약지, 오른손 네 손가락을 떼고 나머지는 모두 막습니다.
+- [시 (B5)](https://ocarina.factpane.com/#five): 왼손 검지·새끼·엄지, 오른손 엄지만 막고 나머지는 뗍니다.
+- [높은레 (D6)](https://ocarina.factpane.com/#five): 왼손 새끼, 오른손 엄지만 막고 나머지는 뗍니다.
+
+## 기본 노래
+
+- [젤다의 자장가 (Zelda's Lullaby)](https://ocarina.factpane.com/%EC%A0%A4%EB%8B%A4%EC%9D%98-%EC%9E%90%EC%9E%A5%EA%B0%80/): 계이름 시 높은레 라 시 높은레 라 · N64 버튼 C왼쪽, C위, C오른쪽, C왼쪽, C위, C오른쪽 · Switch 2 Y, X, A, Y, X, A
+- [에포나의 노래 (Epona's Song)](https://ocarina.factpane.com/%EC%97%90%ED%8F%AC%EB%82%98%EC%9D%98-%EB%85%B8%EB%9E%98/): 계이름 높은레 시 라 높은레 시 라 · N64 버튼 C위, C왼쪽, C오른쪽, C위, C왼쪽, C오른쪽 · Switch 2 X, Y, A, X, Y, A
+- [사리아의 노래 (Saria's Song)](https://ocarina.factpane.com/%EC%82%AC%EB%A6%AC%EC%95%84%EC%9D%98-%EB%85%B8%EB%9E%98/): 계이름 파 라 시 파 라 시 · N64 버튼 C아래, C오른쪽, C왼쪽, C아래, C오른쪽, C왼쪽 · Switch 2 R, A, Y, R, A, Y
+- [태양의 노래 (Sun's Song)](https://ocarina.factpane.com/%ED%83%9C%EC%96%91%EC%9D%98-%EB%85%B8%EB%9E%98/): 계이름 라 파 높은레 라 파 높은레 · N64 버튼 C오른쪽, C아래, C위, C오른쪽, C아래, C위 · Switch 2 A, R, X, A, R, X
+- [시간의 노래 (Song of Time)](https://ocarina.factpane.com/%EC%8B%9C%EA%B0%84%EC%9D%98-%EB%85%B8%EB%9E%98/): 계이름 라 레 파 라 레 파 · N64 버튼 C오른쪽, A, C아래, C오른쪽, A, C아래 · Switch 2 A, L, R, A, L, R
+- [폭풍의 노래 (Song of Storms)](https://ocarina.factpane.com/%ED%8F%AD%ED%92%8D%EC%9D%98-%EB%85%B8%EB%9E%98/): 계이름 레 파 높은레 레 파 높은레 · N64 버튼 A, C아래, C위, A, C아래, C위 · Switch 2 L, R, X, L, R, X
+
+## 워프 노래
+
+- [숲의 미뉴에트 (Minuet of Forest)](https://ocarina.factpane.com/%EC%88%B2%EC%9D%98-%EB%AF%B8%EB%89%B4%EC%97%90%ED%8A%B8/): 계이름 레 높은레 시 라 시 라 · N64 버튼 A, C위, C왼쪽, C오른쪽, C왼쪽, C오른쪽 · Switch 2 L, X, Y, A, Y, A
+- [불의 볼레로 (Bolero of Fire)](https://ocarina.factpane.com/%EB%B6%88%EC%9D%98-%EB%B3%BC%EB%A0%88%EB%A1%9C/): 계이름 파 레 파 레 라 파 라 파 · N64 버튼 C아래, A, C아래, A, C오른쪽, C아래, C오른쪽, C아래 · Switch 2 R, L, R, L, A, R, A, R
+- [물의 세레나데 (Serenade of Water)](https://ocarina.factpane.com/%EB%AC%BC%EC%9D%98-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0/): 계이름 레 파 라 라 시 · N64 버튼 A, C아래, C오른쪽, C오른쪽, C왼쪽 · Switch 2 L, R, A, A, Y
+- [영혼의 레퀴엠 (Requiem of Spirit)](https://ocarina.factpane.com/%EC%98%81%ED%98%BC%EC%9D%98-%EB%A0%88%ED%80%B4%EC%97%A0/): 계이름 레 파 레 라 파 레 · N64 버튼 A, C아래, A, C오른쪽, C아래, A · Switch 2 L, R, L, A, R, L
+- [어둠의 녹턴 (Nocturne of Shadow)](https://ocarina.factpane.com/%EC%96%B4%EB%91%A0%EC%9D%98-%EB%85%B9%ED%84%B4/): 계이름 시 라 라 레 시 라 파 · N64 버튼 C왼쪽, C오른쪽, C오른쪽, A, C왼쪽, C오른쪽, C아래 · Switch 2 Y, A, A, L, Y, A, R
+- [빛의 프렐류드 (Prelude of Light)](https://ocarina.factpane.com/%EB%B9%9B%EC%9D%98-%ED%94%84%EB%A0%90%EB%A5%98%EB%93%9C/): 계이름 높은레 라 높은레 라 시 높은레 · N64 버튼 C위, C오른쪽, C위, C오른쪽, C왼쪽, C위 · Switch 2 X, A, X, A, Y, X
+
+## English: the five fingerings (12-hole Alto C, seen from above as you play, both sub-holes open)
+
+- [D (D5)](https://ocarina.factpane.com/en/#five): Lift only your right little finger; cover the rest.
+- [F (F5)](https://ocarina.factpane.com/en/#five): Lift your right middle, ring and little fingers; cover the rest.
+- [A (A5)](https://ocarina.factpane.com/en/#five): Lift your left ring finger and all four right fingers; cover the rest.
+- [B (B5)](https://ocarina.factpane.com/en/#five): Cover only your left index and little fingers, left thumb and right thumb; lift the rest.
+- [High D (D6)](https://ocarina.factpane.com/en/#five): Cover only your left little finger and right thumb; lift the rest.
+
+## English: Ocarina of Time songs on a 12-hole Alto C ocarina
+
+- [Zelda's Lullaby](https://ocarina.factpane.com/en/zeldas-lullaby/): Notes B, High D, A, B, High D, A · N64 buttons C-Left, C-Up, C-Right, C-Left, C-Up, C-Right · Switch 2 Y, X, A, Y, X, A
+- [Epona's Song](https://ocarina.factpane.com/en/eponas-song/): Notes High D, B, A, High D, B, A · N64 buttons C-Up, C-Left, C-Right, C-Up, C-Left, C-Right · Switch 2 X, Y, A, X, Y, A
+- [Saria's Song](https://ocarina.factpane.com/en/sarias-song/): Notes F, A, B, F, A, B · N64 buttons C-Down, C-Right, C-Left, C-Down, C-Right, C-Left · Switch 2 R, A, Y, R, A, Y
+- [Sun's Song](https://ocarina.factpane.com/en/suns-song/): Notes A, F, High D, A, F, High D · N64 buttons C-Right, C-Down, C-Up, C-Right, C-Down, C-Up · Switch 2 A, R, X, A, R, X
+- [Song of Time](https://ocarina.factpane.com/en/song-of-time/): Notes A, D, F, A, D, F · N64 buttons C-Right, A, C-Down, C-Right, A, C-Down · Switch 2 A, L, R, A, L, R
+- [Song of Storms](https://ocarina.factpane.com/en/song-of-storms/): Notes D, F, High D, D, F, High D · N64 buttons A, C-Down, C-Up, A, C-Down, C-Up · Switch 2 L, R, X, L, R, X
+- [Minuet of Forest](https://ocarina.factpane.com/en/minuet-of-forest/): Notes D, High D, B, A, B, A · N64 buttons A, C-Up, C-Left, C-Right, C-Left, C-Right · Switch 2 L, X, Y, A, Y, A
+- [Bolero of Fire](https://ocarina.factpane.com/en/bolero-of-fire/): Notes F, D, F, D, A, F, A, F · N64 buttons C-Down, A, C-Down, A, C-Right, C-Down, C-Right, C-Down · Switch 2 R, L, R, L, A, R, A, R
+- [Serenade of Water](https://ocarina.factpane.com/en/serenade-of-water/): Notes D, F, A, A, B · N64 buttons A, C-Down, C-Right, C-Right, C-Left · Switch 2 L, R, A, A, Y
+- [Requiem of Spirit](https://ocarina.factpane.com/en/requiem-of-spirit/): Notes D, F, D, A, F, D · N64 buttons A, C-Down, A, C-Right, C-Down, A · Switch 2 L, R, L, A, R, L
+- [Nocturne of Shadow](https://ocarina.factpane.com/en/nocturne-of-shadow/): Notes B, A, A, D, B, A, F · N64 buttons C-Left, C-Right, C-Right, A, C-Left, C-Right, C-Down · Switch 2 Y, A, A, L, Y, A, R
+- [Prelude of Light](https://ocarina.factpane.com/en/prelude-of-light/): Notes High D, A, High D, A, B, High D · N64 buttons C-Up, C-Right, C-Up, C-Right, C-Left, C-Up · Switch 2 X, A, X, A, Y, X
+
+## 日本語：5つの運指（12穴アルトC、吹くときに上から見た指、小さなサブホール2つは開ける）
+
+- [レ (D5)](https://ocarina.factpane.com/ja/#five): 右手の小指だけ離し、ほかはすべて押さえます。
+- [ファ (F5)](https://ocarina.factpane.com/ja/#five): 右手の中指・薬指・小指を離し、ほかはすべて押さえます。
+- [ラ (A5)](https://ocarina.factpane.com/ja/#five): 左手の薬指、右手の4本の指を離し、ほかはすべて押さえます。
+- [シ (B5)](https://ocarina.factpane.com/ja/#five): 左手の人差し指・小指・親指、右手の親指だけ押さえ、ほかは離します。
+- [高いレ (D6)](https://ocarina.factpane.com/ja/#five): 左手の小指、右手の親指だけ押さえ、ほかは離します。
+
+## 日本語：時のオカリナの曲を12穴アルトCオカリナで
+
+- [ゼルダの子守歌](https://ocarina.factpane.com/ja/zeldas-lullaby/): 音階 シ 高いレ ラ シ 高いレ ラ · N64ボタン 左C、上C、右C、左C、上C、右C · Switch 2 Y、X、A、Y、X、A
+- [エポナの歌](https://ocarina.factpane.com/ja/eponas-song/): 音階 高いレ シ ラ 高いレ シ ラ · N64ボタン 上C、左C、右C、上C、左C、右C · Switch 2 X、Y、A、X、Y、A
+- [サリアの歌](https://ocarina.factpane.com/ja/sarias-song/): 音階 ファ ラ シ ファ ラ シ · N64ボタン 下C、右C、左C、下C、右C、左C · Switch 2 R、A、Y、R、A、Y
+- [太陽の歌](https://ocarina.factpane.com/ja/suns-song/): 音階 ラ ファ 高いレ ラ ファ 高いレ · N64ボタン 右C、下C、上C、右C、下C、上C · Switch 2 A、R、X、A、R、X
+- [時の歌](https://ocarina.factpane.com/ja/song-of-time/): 音階 ラ レ ファ ラ レ ファ · N64ボタン 右C、A、下C、右C、A、下C · Switch 2 A、L、R、A、L、R
+- [嵐の歌](https://ocarina.factpane.com/ja/song-of-storms/): 音階 レ ファ 高いレ レ ファ 高いレ · N64ボタン A、下C、上C、A、下C、上C · Switch 2 L、R、X、L、R、X
+- [森のメヌエット](https://ocarina.factpane.com/ja/minuet-of-forest/): 音階 レ 高いレ シ ラ シ ラ · N64ボタン A、上C、左C、右C、左C、右C · Switch 2 L、X、Y、A、Y、A
+- [炎のボレロ](https://ocarina.factpane.com/ja/bolero-of-fire/): 音階 ファ レ ファ レ ラ ファ ラ ファ · N64ボタン 下C、A、下C、A、右C、下C、右C、下C · Switch 2 R、L、R、L、A、R、A、R
+- [水のセレナーデ](https://ocarina.factpane.com/ja/serenade-of-water/): 音階 レ ファ ラ ラ シ · N64ボタン A、下C、右C、右C、左C · Switch 2 L、R、A、A、Y
+- [魂のレクイエム](https://ocarina.factpane.com/ja/requiem-of-spirit/): 音階 レ ファ レ ラ ファ レ · N64ボタン A、下C、A、右C、下C、A · Switch 2 L、R、L、A、R、L
+- [闇のノクターン](https://ocarina.factpane.com/ja/nocturne-of-shadow/): 音階 シ ラ ラ レ シ ラ ファ · N64ボタン 左C、右C、右C、A、左C、右C、下C · Switch 2 Y、A、A、L、Y、A、R
+- [光のプレリュード](https://ocarina.factpane.com/ja/prelude-of-light/): 音階 高いレ ラ 高いレ ラ シ 高いレ · N64ボタン 上C、右C、上C、右C、左C、上C · Switch 2 X、A、X、A、Y、X
